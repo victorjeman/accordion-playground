@@ -1,0 +1,10 @@
+[data-accordion-item-state="closed"] [data-accordion-content] {
+  display: none;
+}
+
+[data-accordion-item] {
+  border: 1px solid #ccc;
+  margin-top: 12px;
+  padding: 16px;
+  cursor: pointer;
+}
